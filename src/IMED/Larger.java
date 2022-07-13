@@ -3,4 +3,7 @@
 package IMED;
 
 public class Larger {
+    public static void main(String[] args) {
+
+    }
 }
